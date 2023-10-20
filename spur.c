@@ -3,12 +3,9 @@
 #include <unistd.h>
 
 /**
-* _printf - a function that prints a string,
-* followed by a new line.
-*
-* @format: the string to print
-*
-* Return: 0 Always success
+* _printf - this is the function to be tested
+* @format: parameter to be tested
+* Return: end of code execution
 */
 
 int _printf(const char *format, ...)

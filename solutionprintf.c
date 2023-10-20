@@ -114,5 +114,5 @@ int print_d(va_list ap)
 
 	output = va_arg(ap, int);
 	count = printnumber(output);
-	return (count);
+	return (count);
 }
